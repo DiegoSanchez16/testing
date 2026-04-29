@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
+import Script from "next/script";
 import "./globals.css";
 
 const geistSans = Geist({
@@ -28,6 +29,11 @@ export default function RootLayout({
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
       >
         {children}
+        <script src="http://localhost:3000/skiff.js"
+        data-app-id="2ba7c35b-2e5f-446a-ae38-7561f0044fc0"
+        data-public-key="pk_yH6o98uwwLURvvDS27uFiX88Q1riooJZ"
+        data-api-url="http://localhost:3000"
+        defer></script>
       </body>
     </html>
   );
