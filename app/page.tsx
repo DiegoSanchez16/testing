@@ -13,7 +13,7 @@ export default function Home() {
           priority
         />
         <div className="flex flex-col items-center gap-6 text-center sm:items-start sm:text-left">
-          <h1 className="max-w-xs text-3xl font-semibold leading-10 tracking-tight text-blue-600 dark:text-blue-400">
+          <h1 className="max-w-xs text-3xl font-semibold leading-10 tracking-tight text-orange-600 dark:text-orange-400">
             To get started, edit the page.tsx file.
           </h1>
           <p className="text-sm text-blue-500">Preview deployment test</p>
