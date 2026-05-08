@@ -29,10 +29,9 @@ export default function RootLayout({
       >
         {children}
         <script
-          src="http://localhost:3000/skiff.js"
-          data-app-id="2ba7c35b-2e5f-446a-ae38-7561f0044fc0"
-          data-public-key="pk_yH6o98uwwLURvvDS27uFiX88Q1riooJZ"
-          data-api-url="http://localhost:3000"
+          src="https://app.getskiff.com/skiff.js"
+          data-app-id="app-1778260320420"
+          data-public-key="pk_1a2b3c4d"
           defer
         ></script>
       </body>
