@@ -30,8 +30,8 @@ export default function RootLayout({
         {children}
         <script
           src="https://app.getskiff.com/skiff.js"
-          data-app-id="app-1778260320420"
-          data-public-key="pk_1a2b3c4d"
+          data-app-id="e6df56c1-f69e-47de-af15-a1d6ba97d0e1"
+          data-public-key="pk_BP6Wb7bGmBGetroxU9kk0as8QQK2uQB7"
           defer
         ></script>
       </body>
