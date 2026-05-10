@@ -16,7 +16,7 @@ export default function Home() {
           <h1 className="max-w-xs text-3xl font-semibold leading-10 tracking-tight text-orange-600 dark:text-orange-400">
             To get started, edit the page.tsx file.
           </h1>
-          <p className="text-sm text-blue-500">Preview deployment test</p>
+          <p className="text-sm text-black">Preview deployment test</p>
           <p className="max-w-md text-lg leading-8 text-zinc-600 dark:text-zinc-400">
             Looking for a starting point or more instructions? Head over to{" "}
             <a
